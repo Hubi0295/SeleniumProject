@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="215f0fad-88b3-4dcf-b1a6-3f4aa47903a7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pl/testhubert/pages/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pl/testhubert/pages/LoggedUserPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pl/testhubert/pages/MyAccountPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pl/testhubert/tests/LoginTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pl/testhubert/tests/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pl/testhubert/tests/BaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pl/testhubert/tests/RegisterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pl/testhubert/tests/RegisterTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pl/testhubert/tests/BaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pl/testhubert/tests/BaseTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pl/testhubert/tests/RegisterTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pl/testhubert/tests/RegisterTest.class" afterDir="false" />
-    </list>
+    <list default="true" id="215f0fad-88b3-4dcf-b1a6-3f4aa47903a7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
