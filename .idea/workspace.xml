@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="215f0fad-88b3-4dcf-b1a6-3f4aa47903a7" name="Changes" comment="" />
+    <list default="true" id="215f0fad-88b3-4dcf-b1a6-3f4aa47903a7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/testhubert/models/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/testhubert/pages/AddressDetailsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/testhubert/pages/CartPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/testhubert/pages/OrderDetailsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/testhubert/pages/ProductListPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/testhubert/pages/ProductPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/testhubert/tests/CheckoutTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pl/testhubert/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pl/testhubert/pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pl/testhubert/tests/BaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pl/testhubert/tests/BaseTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pl/testhubert/tests/RegisterTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pl/testhubert/tests/RegisterTest.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +53,33 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.LoginTest.LoginUserWrongTest">
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="pl.testhubert.pages" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pl.testhubert.tests" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.CheckoutTest.checkoutTest">
+    <configuration name="CheckoutTest.checkoutTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="seleniumdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.testhubert.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.testhubert.tests" />
+      <option name="MAIN_CLASS_NAME" value="pl.testhubert.tests.CheckoutTest" />
+      <option name="METHOD_NAME" value="checkoutTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LoginTest.LoginUserCorrectTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="seleniumdemo" />
       <extension name="coverage">
@@ -96,23 +134,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RegisterTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="seleniumdemo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pl.testhubert.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="pl.testhubert.tests" />
-      <option name="MAIN_CLASS_NAME" value="pl.testhubert.tests.RegisterTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="RegisterTest.registerUserWithSameEmail" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="seleniumdemo" />
       <extension name="coverage">
@@ -133,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.CheckoutTest.checkoutTest" />
         <item itemvalue="TestNG.LoginTest.LoginUserWrongTest" />
         <item itemvalue="TestNG.LoginTest.LoginUserCorrectTest" />
         <item itemvalue="TestNG.LoginTest.LoginUserTest" />
         <item itemvalue="TestNG.RegisterTest.registerUserWithSameEmail" />
-        <item itemvalue="TestNG.RegisterTest" />
       </list>
     </recent_temporary>
   </component>
