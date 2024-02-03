@@ -5,15 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="215f0fad-88b3-4dcf-b1a6-3f4aa47903a7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/hubert/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pl/testhubert/tests/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pl/testhubert/tests/RegisterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pl/testhubert/utils/DriverFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/testhubert/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/testhubert/pages/LoggedUserPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/testhubert/pages/MyAccountPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/testhubert/tests/LoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pl/testhubert/tests/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pl/testhubert/tests/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pl/testhubert/tests/RegisterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pl/testhubert/tests/RegisterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pl/testhubert/tests/BaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pl/testhubert/tests/BaseTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pl/testhubert/tests/RegisterTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pl/testhubert/tests/RegisterTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +31,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2bpSxpOaeQ1ihvdl7k6rlQSHLQF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -40,15 +44,70 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Daniel/Desktop/travels",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Daniel/Desktop/seleniumdemo",
     "onboarding.tips.debug.path": "C:/Users/Daniel/Desktop/seleniumdemo/src/main/java/pl/hubert/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="RegisterTest.registerUserTest" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.LoginTest.LoginUserWrongTest">
+    <configuration name="LoginTest.LoginUserCorrectTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="seleniumdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.testhubert.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.testhubert.tests" />
+      <option name="MAIN_CLASS_NAME" value="pl.testhubert.tests.LoginTest" />
+      <option name="METHOD_NAME" value="LoginUserCorrectTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.LoginUserTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="seleniumdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.testhubert.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.testhubert.tests" />
+      <option name="MAIN_CLASS_NAME" value="pl.testhubert.tests.LoginTest" />
+      <option name="METHOD_NAME" value="LoginUserTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.LoginUserWrongTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="seleniumdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.testhubert.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.testhubert.tests" />
+      <option name="MAIN_CLASS_NAME" value="pl.testhubert.tests.LoginTest" />
+      <option name="METHOD_NAME" value="LoginUserWrongTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegisterTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="seleniumdemo" />
       <extension name="coverage">
         <pattern>
@@ -58,7 +117,24 @@
       </extension>
       <option name="PACKAGE_NAME" value="pl.testhubert.tests" />
       <option name="MAIN_CLASS_NAME" value="pl.testhubert.tests.RegisterTest" />
-      <option name="METHOD_NAME" value="registerUserTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegisterTest.registerUserWithSameEmail" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="seleniumdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.testhubert.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.testhubert.tests" />
+      <option name="MAIN_CLASS_NAME" value="pl.testhubert.tests.RegisterTest" />
+      <option name="METHOD_NAME" value="registerUserWithSameEmail" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -68,7 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.RegisterTest.registerUserTest" />
+        <item itemvalue="TestNG.LoginTest.LoginUserWrongTest" />
+        <item itemvalue="TestNG.LoginTest.LoginUserCorrectTest" />
+        <item itemvalue="TestNG.LoginTest.LoginUserTest" />
+        <item itemvalue="TestNG.RegisterTest.registerUserWithSameEmail" />
+        <item itemvalue="TestNG.RegisterTest" />
       </list>
     </recent_temporary>
   </component>
@@ -82,5 +162,9 @@
       <updated>1706910781584</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Create DriverFactory and BaseTest with Annotation @BeforeMethod @AfterMethod" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create DriverFactory and BaseTest with Annotation @BeforeMethod @AfterMethod" />
   </component>
 </project>
