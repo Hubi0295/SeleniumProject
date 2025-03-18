@@ -1,3 +1,3 @@
 # SeleniumProject
-Project I created for learning how to make tests with selenium <br>
-Website I was testing during my course on Udemy: http://seleniumdemo.com/
+Project created for learning how to make tests with selenium based on Udemy Course<br>
+Website that I was testing : http://seleniumdemo.com/
