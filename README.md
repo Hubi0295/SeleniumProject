@@ -7,13 +7,12 @@
 ## Funkcjonalności
 
 - **Tworzenie testów automatycznych**: Umożliwia pisanie i uruchamianie testów automatycznych dla aplikacji webowych z użyciem Selenium.
-- **Integracja z róż’nymi przeglądarkami**: Wsparcie dla testowania na różnych przeglądarkach internetowych.
+- **Integracja z różnymi przeglądarkami**: Wsparcie dla testowania na różnych przeglądarkach internetowych.
 
 ## Technologie
 
 - **Język programowania**: Java
 - **Narzędzie do automatyzacji testów**: Selenium WebDriver
-- - **Loger**: Log4J
 - **System budowania**: Maven
 
 ## Struktura projektu
