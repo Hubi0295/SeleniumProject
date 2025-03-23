@@ -57,12 +57,4 @@ mvn test
 
 Testy zostaną uruchomione na domyślnej przeglądarce skonfigurowanej w projekcie.
 
-## Autor
-
-Projekt został stworzony przez [Hubi0295](https://github.com/Hubi0295).
-
-## Licencja
-
-Ten projekt nie posiada określonej licencji.
-
 
